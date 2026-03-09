@@ -7,7 +7,7 @@ Sales Dashboard
 <img width="1366" height="768" alt="sales_dashboard" src="https://github.com/user-attachments/assets/4efbab76-c7d1-46af-b8d8-e24fb6fd487b" />
 
 Service Dashboard
-<img width="1366" height="768" alt="sales_dashboard" src="https://github.com/user-attachments/assets/c616586e-ec41-4112-846c-ec9172778560" />
+<img width="1366" height="768" alt="service_dashboard" src="https://github.com/user-attachments/assets/ad99b487-627b-4d5e-8806-7788b848606d" />
 
 The dashboard helps regional managers understand:
 - Profit trends
